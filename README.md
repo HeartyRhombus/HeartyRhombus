@@ -4,11 +4,11 @@ My name is Kayla Budzeak(Bud-zick), aka HeartyRhombus, and I graduated from Flat
 ### 💻 Current Technical Skills:
 [![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-blueviolet?logo=redux&logoColor=white)](https://redux.js.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-red)](https://rubyonrails.org/)
 [![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![HTML](https://img.shields.io/badge/HTML-red)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/CSS-blue)](https://www.w3.org/TR/CSS/#css)
+[![HTML](https://img.shields.io/badge/HTML-red)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SQL](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 ### ☕ Current Personal Projects:
 - A Square Enix Website Redesign
