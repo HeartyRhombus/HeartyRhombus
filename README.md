@@ -2,14 +2,14 @@
 My name is Kayla Budzeak(Bud-zick), aka HeartyRhombus, and I graduated from Flatiron School's Software Engineering program in February 2021. I have an extensive background in customer service, and am looking to transition into tech!
 
 #### 💻 Current Technical Skills:
-- React
+<!-- - React
 - Redux
 - JavaScript
 - Ruby on Rails
 - Ruby
 - HTML
 - CSS
-- SQL
+- SQL -->
 #### ☕ My current personal projects are:
 - A Square Enix Website Redesign
 - Re-working School Projects
@@ -19,12 +19,10 @@ My name is Kayla Budzeak(Bud-zick), aka HeartyRhombus, and I graduated from Flat
 - Data Structures
 - Big O Notation
 #### ⚡ Fun Facts:
-- I'm restoring a 1972 Charger
- ![charger](https://user-images.githubusercontent.com/68920883/130841900-3a262246-1f4b-4c07-bcaf-b8631a5f783b.jpg =250x)
-- I have lots of plants
-![IMG_2968](https://user-images.githubusercontent.com/68920883/130845127-f7b1c8b2-e85c-417b-b7a9-bda3544d9b59.JPG =250x)
-- I love to bake
-![cake](https://user-images.githubusercontent.com/68920883/130842038-e58972f7-5f8a-4cf9-8c9e-10a36c02b490.jpeg =250x)
+I'm restoring a 1972 charger | I have lots of plants | I love to bake
+:---: | :---: | :---:
+<img src="https://user-images.githubusercontent.com/68920883/130845573-00285ff4-0c1f-4e2a-beb9-6d65d1e78150.jpg" height="250px" /> | <img src="https://user-images.githubusercontent.com/68920883/130845127-f7b1c8b2-e85c-417b-b7a9-bda3544d9b59.JPG" height="250px" /> | <img src="https://user-images.githubusercontent.com/68920883/130842038-e58972f7-5f8a-4cf9-8c9e-10a36c02b490.jpeg" height="250px" />
+
 #### 📫 How to Reach Me:
 - [Portfolio](https://heartyrhombus.github.io)
 - [LinkedIn](https://www.linkedin.com/in/KaylaBudzeak)
