@@ -12,7 +12,7 @@ My name is Kayla Budzeak(Bud-zick), aka HeartyRhombus, and I graduated from Flat
 - SQL -->
 [![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-blueviolet?logo=redux&logoColor=white)](https://redux.js.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)]()
 [![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-red)](https://rubyonrails.org/)
 [![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![HTML](https://img.shields.io/badge/HTML-red)](https://html.spec.whatwg.org/)
