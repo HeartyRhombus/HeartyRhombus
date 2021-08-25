@@ -2,19 +2,27 @@
 My name is Kayla Budzeak(Bud-zick), aka HeartyRhombus, and I graduated from Flatiron School's Software Engineering program in February 2021. I have an extensive background in customer service, and am looking to transition into tech!
 
 #### 💻 Current Technical Skills:
-- React
+<!-- - React
 - Redux
 - JavaScript
 - Ruby on Rails
 - Ruby
 - HTML
 - CSS
-- SQL
-#### ☕ My current personal projects are:
+- SQL -->
+[![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-blueviolet?logo=redux&logoColor=white)](https://redux.js.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)]()
+[![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-red)](https://rubyonrails.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
+[![HTML](https://img.shields.io/badge/HTML-red)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/CSS-blue)](https://www.w3.org/TR/CSS/#css)
+[![SQL](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+#### ☕ Current Personal Projects:
 - A Square Enix Website Redesign
 - Re-working School Projects
 <!-- A Curly Hair iOS App -->
-#### 🌱 I'm currently learning:
+#### 🌱 Currently Learning:
 - Python3
 - Data Structures
 - Big O Notation
