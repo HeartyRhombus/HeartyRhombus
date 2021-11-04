@@ -33,7 +33,7 @@ I'm restoring a 1972 charger | I have lots of plants | I love to bake
 <a href="https://heartyrhombus.medium.com">
   <img src="https://user-images.githubusercontent.com/68920883/130850450-94623658-7010-4b9b-8bad-ac94321aa939.png" title="Blog" alt="Blog" height="50px" />
 </a>&nbsp;&nbsp;
-<a href="mailto:kayla.budzeak@icloud.com" >
+<a href="mailto:kayla.budzeak@gmail.com" >
   <img src="https://user-images.githubusercontent.com/68920883/130850056-9eb0c306-8519-4a61-856f-d3ae25f5b4e4.png" title="Email" alt="Email" height="50px" />
 </a>
 
