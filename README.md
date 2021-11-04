@@ -11,7 +11,7 @@ My name is Kayla Budzeak(Bud-zick), aka HeartyRhombus, and I graduated from Flat
 [![CSS](https://img.shields.io/badge/CSS-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SQL](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 ### ☕ Current Personal Projects:
-- A Square Enix Website Redesign
+- A Family Weather/Updates Site
 - Re-working School Projects
 <!-- A Curly Hair iOS App -->
 ### 🌱 Currently Learning:
