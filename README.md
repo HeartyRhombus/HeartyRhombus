@@ -1,5 +1,7 @@
 ## Hey y'all! 👋
-My name is Kayla Budzeak(Bud-zick), aka HeartyRhombus, and I graduated from Flatiron School's Software Engineering program in February 2021. I have an extensive background in customer service, and am looking to transition into tech!
+My name is Kayla Budzeak(Bud-zick), aka HeartyRhombus, and it's nice to meet you!
+
+I am currently enjoying my first tech role and graduated from Flatiron School in February 2021. Before entering the tech space, my background included customer service.
 
 ### 💻 Current Technical Skills:
 [![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)](https://reactjs.org/)
